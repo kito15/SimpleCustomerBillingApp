@@ -194,17 +194,3 @@ void search()
 	   printf("    Payment date   :%d/%d/%d\n\n",customer.lastpayment.month,customer.lastpayment.day,customer.lastpayment.year);
 
 	   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
